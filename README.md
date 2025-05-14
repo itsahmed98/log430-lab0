@@ -13,6 +13,13 @@ Ce projet sert de base technique pour les prochains laboratoires du cours LOG430
 
 ---
 
+## Suite de tests
+
+Le projet contient un projet de test: minimalAPI.Tests qui contient 2 tests unitaires simples. Pour les executer il faut:
+
+- Aller dans le projet de test: cd minimalAPI.Tests
+- Executer les tests localement avec la command "dotnet test"
+
 ## 🧱 Structure du projet
 
 log430-lab0/

@@ -18,4 +18,6 @@ app.UseHttpsRedirection();
 
 app.MapGet("/", () => "Debut de lab0 log430!");
 
+app.Urls.Add("http://0.0.0.0:80");
+
 app.Run();

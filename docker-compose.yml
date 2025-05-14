@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  api:
+    image: log430-lab0-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"

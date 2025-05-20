@@ -22,6 +22,8 @@ Le projet contient un projet de test: minimalAPI.Tests qui contient 2 tests unit
 
 ## 🧱 Structure du projet
 
+```plaintext
+
 log430-lab0/
 │
 ├── minimalAPI/ # Code source principal de l'application API
@@ -36,7 +38,7 @@ log430-lab0/
 ├── .github/workflows/ci.yml # Pipeline CI/CD GitHub Actions
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## ⚙️ Architecture du projet
